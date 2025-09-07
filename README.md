@@ -23,5 +23,3 @@ The project includes SQL scripts for **data cleaning, exploratory data analysis 
 - Explore trends over **time (year/month)**.
 - Compare layoffs across **industries and regions**.
 - Highlight patterns (e.g., startups vs. established companies).
-   ```bash
-   git clone https://github.com/your-username/world-layoffs-sql-project.git
